@@ -33,4 +33,6 @@
 
 # custom
 *.vcxproj
-/x64
+*.vcxproj.filters
+*.vcxproj.user
+/Project1/x64
