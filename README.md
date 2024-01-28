@@ -10,16 +10,16 @@ when: 2023.7 ~ 2023.8<br>
 4. Repeating this progess in every frame
 # Flow chart
 <div>multi-object detection</div>
-<img src="" width="400"/>
+<img src="https://github.com/leejeongwoo1/object_tracking_by_yolo/blob/main/detection_flowchart.jpg" width="500"/>
 
 <div>multi-object tracking</div>
-<img src="" width="400"/>
+<img src="https://github.com/leejeongwoo1/object_tracking_by_yolo/blob/main/tracking_flowchart.jpg" width="500"/>
 
 # How to use?
 1. Git clone <a href="https://github.com/NizeLee/KhuCv_mdi">KhuCV repo</a>
 2. Build KhuCV app refer to README at KhuCV. you can also refer this <a href="https://curvy-bathtub-cb1.notion.site/1-wxWidget-opencv-703c6fc832e144b499652e4d23cdff05">notion</a>
 3. Replace .cpp and .h files in KhuCV with my files
-4. Add yolov3-tiny.weights, yolov3-tiny.cfg to execution folder (ex. RUN64)
+4. Add <a href="https://pjreddie.com/darknet/yolo/">yolov3-tiny.weights, yolov3-tiny.cfg</a> to execution folder (ex. RUN64)
 5. Input video to app, then you can see it works well^^
    
 # Demo
